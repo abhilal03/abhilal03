@@ -89,13 +89,13 @@ I am a dedicated Full Stack Developer with a strong background in computer appli
 
 ---
 
-<h3>📑 Certifications</h3>
+### **📑 Certifications** 
 - Programming for Everybody (Getting Started with Python) – Coursera  
 - Developing an Entrepreneurial Mindset – Coursera  
 
 ---
 
-<h3>🏆 Achievements</h3>
+### **🏆 Achievements**  
 - Published a paper titled ‘Smart Tourism: Leveraging Tourist’s Mobility Mining and Social Media Interaction for Tailored Exploration of Kerala’s Cultural and Natural Treasures’ in an International Conference on Sustainable Globalization, Sri Lanka.
 - Published a paper titled ‘Crowd Control and Monitoring using SSD’ in the International Journal of Research in Engineering and Science.
 - Appointed as Leading Cadet in National Cadet Corps (NCC).
