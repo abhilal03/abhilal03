@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABHIJITH LAL</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijithlal&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithlal" />
-</p>
+
 
 <h3>About Me</h3>
 
@@ -66,12 +64,6 @@ I am a dedicated Full Stack Developer with a strong background in computer appli
 - **Key Contributions**: Developed the back-end logic for question management and results processing, ensuring data integrity and smooth user interaction.
 
 ---
-
-<h3>📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijithlal&show_icons=true&locale=en" alt="abhijithlal" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithlal&" alt="abhijithlal" />
-</p>
 
 <h3>💼 Open to Work</h3>
 
